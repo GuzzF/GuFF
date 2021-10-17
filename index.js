@@ -12,8 +12,8 @@ var options =
 	},
 	identity: 
 	{
-		username: "lucasvictor_c",
-		password: "oauth:xv8nmc6t36vj2jo2ux9myn42gtgavp",  
+		username: "guxtf",
+		password: "oauth:x61vhjjeqrceguobl63adyaf0b1oh1",  
 	},
 	channels: ['#gaules', '#cachorro1337c', '#saullo', '#murilo_rt', '#zanfas_cenegal', '#csrfps', '#PlayHard', '#brnwowzk1',] //ADICIONA OS CANAIS AQ COM '#NOME'
 };
